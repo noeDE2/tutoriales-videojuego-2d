@@ -55,7 +55,7 @@ El objetivo es crear un espacio organizado donde se centralice el código fuente
 
 Cada avance y práctica se documenta con capturas o enlaces a evidencias alojadas en Google Drive:
 
-- [Evidencia Tutorial 1]([https://drive.google.com/link-evidencia-1](https://docs.google.com/document/d/1XQ5JF0nqKC-NTVHdymEi49wHev40KF1fEdRN8sVhJpE/edit?usp=drive_link))   
+- [Evidencia Tutorial 1](https://docs.google.com/document/d/1XQ5JF0nqKC-NTVHdymEi49wHev40KF1fEdRN8sVhJpE/edit?usp=drive_link)   
 - … *(agregar según avances)*
 
 ---
