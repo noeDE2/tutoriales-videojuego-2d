@@ -6,8 +6,7 @@ Este proyecto se usará como base para organizar el trabajo, evidencias y avance
 
 Demo: *(añadir enlace si tienes un demo del juego)*
 
-![Mockup del Proyecto](screenshots/pic.jpg)  
-Imagen descriptiva del progreso del proyecto.
+![Mockup del Proyecto](https://www.milcursosgratis.com/wp-content/uploads/2017/06/curso-crear-videojuego-2d-unity.jpg)  
 
 ---
 
