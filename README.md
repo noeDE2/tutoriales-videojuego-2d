@@ -60,7 +60,7 @@ Incluye el **nombre del tutorial**, una **vista previa (GIF)** y un **enlace a l
 ### 🎮 Tutorial 1 — Movimiento del Jugador
 **Descripción:** Implementación del control básico del personaje y detección de colisiones.  
 
-![Tutorial 1 - Movimiento](Gifs/tutoria1.gif)  
+![Tutorial 1 - Movimiento](Gifs/Tutoria1.gif)  
 
 🔗 [Evidencia Completa](https://docs.google.com/document/d/1XQ5JF0nqKC-NTVHdymEi49wHev40KF1fEdRN8sVhJpE/edit?usp=drive_link)
 
