@@ -50,12 +50,74 @@ El objetivo es crear un espacio organizado donde se centralice el código fuente
 
 ---
 
-## Evidencias de Avances
+## 🧩 Tutoriales y Evidencias de Avances
 
-Cada avance y práctica se documenta con capturas o enlaces a evidencias alojadas en Google Drive:
+Cada tutorial documenta una etapa del desarrollo del videojuego 2D.  
+Incluye el **nombre del tutorial**, una **vista previa (GIF)** y un **enlace a la evidencia completa**.
 
-- [Evidencia Tutorial 1](https://docs.google.com/document/d/1XQ5JF0nqKC-NTVHdymEi49wHev40KF1fEdRN8sVhJpE/edit?usp=drive_link)   
-- … *(agregar según avances)*
+---
+
+### 🎮 Tutorial 1 — Movimiento del Jugador
+**Descripción:** Implementación del control básico del personaje y detección de colisiones.  
+
+![Tutorial 1 - Movimiento](Gifs/tutoria1.gif)  
+
+🔗 [Evidencia Completa](https://docs.google.com/document/d/1XQ5JF0nqKC-NTVHdymEi49wHev40KF1fEdRN8sVhJpE/edit?usp=drive_link)
+
+---
+
+### 🧱 Tutorial 2 — Creación del Escenario
+**Descripción:** Construcción del entorno del juego y uso del Tilemap de Unity.  
+
+![Tutorial 2 - Escenario](screenshots/tutorial2.gif)  
+
+🔗 [Evidencia Completa](https://drive.google.com/...)
+
+---
+
+### 💥 Tutorial 3 — Sistema de Daño y Vida
+**Descripción:** Programación de daño, puntos de vida y animaciones de impacto.  
+
+![Tutorial 3 - Vida](screenshots/tutorial3.gif)  
+
+🔗 [Evidencia Completa](https://drive.google.com/...)
+
+---
+
+### 🔊 Tutorial 4 — Sonido y Música
+**Descripción:** Implementación de efectos de sonido, música de fondo y control de volumen.  
+
+![Tutorial 4 - Sonido](screenshots/tutorial4.gif)  
+
+🔗 [Evidencia Completa](https://drive.google.com/...)
+
+---
+
+### 🧩 Tutorial 5 — Interfaz de Usuario (UI)
+**Descripción:** Creación del menú principal, HUD de vida y pantalla de pausa.  
+
+![Tutorial 5 - UI](screenshots/tutorial5.gif)  
+
+🔗 [Evidencia Completa](https://drive.google.com/...)
+
+---
+
+### 🕹️ Tutorial 6 — Enemigos e IA Básica
+**Descripción:** Lógica de movimiento de enemigos, detección de jugador y colisiones.  
+
+![Tutorial 6 - Enemigos](screenshots/tutorial6.gif)  
+
+🔗 [Evidencia Completa](https://drive.google.com/...)
+
+---
+
+### 🏁 Tutorial 7 — Pantalla de Fin y Guardado
+**Descripción:** Creación del sistema de guardado y pantalla de victoria o derrota.  
+
+![Tutorial 7 - Fin](screenshots/tutorial7.gif)  
+
+🔗 [Evidencia Completa](https://drive.google.com/...)
+
 
 ---
 
