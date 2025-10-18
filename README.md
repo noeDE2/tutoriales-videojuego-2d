@@ -1,126 +1,92 @@
 
-# Tutoriales Videojuego 2D 🎮
+# 🎮 Videojuego 2D — Tutoriales y Evidencias de Avances
 
-Repositorio con el **código fuente** y documentación del desarrollo de un videojuego 2D como parte de prácticas y tutoriales.  
-Este proyecto se usará como base para organizar el trabajo, evidencias y avances.
+<p align="center">
+  <img src="https://www.milcursosgratis.com/wp-content/uploads/2017/06/curso-crear-videojuego-2d-unity.jpg" width="80%" alt="Mockup del Proyecto">
+</p>
 
-Demo: *(añadir enlace si tienes un demo del juego)*
-
-![Mockup del Proyecto](https://www.milcursosgratis.com/wp-content/uploads/2017/06/curso-crear-videojuego-2d-unity.jpg)  
-
----
-
-## Contents
-* [Descripción del Proyecto](#descripción-del-proyecto)
-* [Estructura del Repositorio](#estructura-del-repositorio)
-* [Requisitos](#requisitos)
-* [Evidencias de Avances](#evidencias-de-avances)
-* [Licencia](#licencia)
+> **Repositorio oficial** del desarrollo de un videojuego 2D.  
+> Incluye código fuente, documentación, y una colección de tutoriales prácticos con evidencias gráficas.
 
 ---
 
-## Descripción del Proyecto
-
-Este repositorio documenta y contiene el desarrollo de un videojuego 2D usando Unity, como parte de un conjunto de tutoriales prácticos.  
-Incluye todos los assets, escenas, animaciones y scripts desarrollados, además de enlaces a evidencias gráficas y documentación en Google Drive.
-
-El objetivo es crear un espacio organizado donde se centralice el código fuente y la información relevante del proceso de aprendizaje y desarrollo.
+## 🧭 Contenido del Proyecto
+| Sección | Descripción |
+|----------|--------------|
+| 🎯 [Descripción del Proyecto](#descripción-del-proyecto) | Propósito general y objetivos. |
+| 🗂️ [Estructura del Repositorio](#estructura-del-repositorio) | Organización interna de carpetas. |
+| ⚙️ [Requisitos](#requisitos) | Herramientas necesarias para ejecutar el proyecto. |
+| 🧩 [Tutoriales y Evidencias](#tutoriales-y-evidencias) | Avances documentados con ejemplos visuales. |
+| 📝 [Licencia](#licencia) | Tipo de licencia aplicable. |
 
 ---
 
-## Estructura del Repositorio
+## 🧱 Descripción del Proyecto
+Este proyecto documenta el desarrollo paso a paso de un **videojuego 2D en Unity**, abarcando desde la programación del movimiento del jugador hasta la implementación de interfaz, sonido e inteligencia artificial.
+
+Cada tutorial contiene:
+- Una breve **descripción de la etapa de desarrollo.**
+- Una **vista previa en GIF.**
+- Un **enlace al documento completo de evidencia.**
+
+---
+
+## 📁 Estructura del Repositorio
 
 ```
-./
-├── Assets/                     # Archivos y assets del juego
-├── ProjectSettings/            # Configuración del proyecto Unity
-├── Packages/                   # Paquetes utilizados por Unity
-├── README.md                   # Este archivo
-├── .gitignore                  # Archivos ignorados por Git
-└── screenshots/                # Capturas de avances y evidencias
+📦 Proyecto Videojuego 2D
+├── Assets/               → Recursos del juego (sprites, sonidos, scripts)
+├── Packages/             → Paquetes utilizados por Unity
+├── ProjectSettings/      → Configuración del entorno Unity
+├── screenshots/          → Capturas y GIFs de evidencias
+├── README.md             → Documento actual
+└── .gitignore            → Archivos ignorados por Git
 ```
 
 ---
 
-## Requisitos
+## ⚙️ Requisitos
 
-- [Unity](https://unity.com/) — versión compatible con el proyecto  
-- [Git](https://git-scm.com/) — para control de versiones  
-- [Visual Studio](https://visualstudio.microsoft.com/) o similar — para edición de scripts
-
----
-
-## 🧩 Tutoriales y Evidencias de Avances
-
-Cada tutorial documenta una etapa del desarrollo del videojuego 2D.  
-Incluye el **nombre del tutorial**, una **vista previa (GIF)** y un **enlace a la evidencia completa**.
+- [Unity Hub](https://unity.com/) (versión recomendada 2022 o superior)  
+- [Visual Studio Code](https://code.visualstudio.com/) o [Visual Studio Community](https://visualstudio.microsoft.com/)  
+- [Git](https://git-scm.com/) para control de versiones  
 
 ---
 
-### 🎮 Tutorial 1 — Movimiento del Jugador
-**Descripción:** Implementación del control básico del personaje y detección de colisiones.  
+## 🧩 Tutoriales y Evidencias
 
-![Tutorial 1 - Movimiento](Gifs/Tutorial1.gif) 
+> Cada tutorial representa un **avance significativo** dentro del desarrollo del videojuego.  
+> Las vistas previas (GIFs) están dispuestas en formato de tarjetas con íconos y estilos para una lectura más atractiva.
 
-🔗 [Evidencia Completa](https://docs.google.com/document/d/1XQ5JF0nqKC-NTVHdymEi49wHev40KF1fEdRN8sVhJpE/edit?usp=drive_link)
-
----
-
-### 🧱 Tutorial 2 — Creación del Escenario
-**Descripción:** Construcción del entorno del juego y uso del Tilemap de Unity.  
-
-![Tutorial 2 - Escenario](screenshots/tutorial2.gif)  
-
-🔗 [Evidencia Completa](https://drive.google.com/...)
-
----
-
-### 💥 Tutorial 3 — Sistema de Daño y Vida
-**Descripción:** Programación de daño, puntos de vida y animaciones de impacto.  
-
-![Tutorial 3 - Vida](screenshots/tutorial3.gif)  
-
-🔗 [Evidencia Completa](https://drive.google.com/...)
+| 🎮 Tutorial | 📝 Descripción | 🖼️ Vista Previa | 🔗 Enlace |
+|--------------|----------------|------------------|------------|
+| **1 — Movimiento del Jugador** | Implementación del control básico y detección de colisiones. | <img src="Gifs/Tutorial1.gif" width="240"> | [Ver Evidencia](https://docs.google.com/document/d/1XQ5JF0nqKC-NTVHdymEi49wHev40KF1fEdRN8sVhJpE/edit?usp=drive_link) |
+| **2 — Creación del Escenario** | Construcción del entorno del juego y uso de Tilemap. | <img src="screenshots/tutorial2.gif" width="240"> | [Ver Evidencia](https://drive.google.com/...) |
+| **3 — Sistema de Daño y Vida** | Programación de daño, puntos de vida y animaciones. | <img src="screenshots/tutorial3.gif" width="240"> | [Ver Evidencia](https://drive.google.com/...) |
+| **4 — Sonido y Música** | Implementación de efectos, música y control de volumen. | <img src="screenshots/tutorial4.gif" width="240"> | [Ver Evidencia](https://drive.google.com/...) |
+| **5 — Interfaz de Usuario (UI)** | Creación del menú principal, HUD y pantalla de pausa. | <img src="screenshots/tutorial5.gif" width="240"> | [Ver Evidencia](https://drive.google.com/...) |
+| **6 — Enemigos e IA Básica** | Lógica de movimiento, detección y ataque. | <img src="screenshots/tutorial6.gif" width="240"> | [Ver Evidencia](https://drive.google.com/...) |
+| **7 — Pantalla de Fin y Guardado** | Sistema de guardado y pantalla de fin. | <img src="screenshots/tutorial7.gif" width="240"> | [Ver Evidencia](https://drive.google.com/...) |
 
 ---
 
-### 🔊 Tutorial 4 — Sonido y Música
-**Descripción:** Implementación de efectos de sonido, música de fondo y control de volumen.  
+## 🧠 Tips de Presentación
 
-![Tutorial 4 - Sonido](screenshots/tutorial4.gif)  
+💡 **Consejo:** Puedes mejorar la apariencia del README en GitHub usando un tema oscuro y GIFs con fondo transparente o colores planos.  
+También puedes usar badges decorativos, por ejemplo:
 
-🔗 [Evidencia Completa](https://drive.google.com/...)
-
----
-
-### 🧩 Tutorial 5 — Interfaz de Usuario (UI)
-**Descripción:** Creación del menú principal, HUD de vida y pantalla de pausa.  
-
-![Tutorial 5 - UI](screenshots/tutorial5.gif)  
-
-🔗 [Evidencia Completa](https://drive.google.com/...)
+[![Unity](https://img.shields.io/badge/Made%20with-Unity-blue?style=flat-square&logo=unity)](https://unity.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Status](https://img.shields.io/badge/Status-En%20Desarrollo-orange)](#)
 
 ---
 
-### 🕹️ Tutorial 6 — Enemigos e IA Básica
-**Descripción:** Lógica de movimiento de enemigos, detección de jugador y colisiones.  
-
-![Tutorial 6 - Enemigos](screenshots/tutorial6.gif)  
-
-🔗 [Evidencia Completa](https://drive.google.com/...)
+## 📝 Licencia
+Este proyecto se distribuye bajo licencia [MIT](https://opensource.org/licenses/MIT).  
+Eres libre de usar, modificar y distribuir el código siempre que se mantenga el crédito correspondiente.
 
 ---
 
-### 🏁 Tutorial 7 — Pantalla de Fin y Guardado
-**Descripción:** Creación del sistema de guardado y pantalla de victoria o derrota.  
-
-![Tutorial 7 - Fin](screenshots/tutorial7.gif)  
-
-🔗 [Evidencia Completa](https://drive.google.com/...)
-
-
----
-
-## Licencia
-
-Este proyecto está bajo licencia [MIT](https://opensource.org/licenses/MIT).
+**Autor:** *[Tu Nombre]*  
+📅 *Repositorio actualizado el:* `$(date +%Y-%m-%d)`  
+🌐 *Universidad / Proyecto Académico*
