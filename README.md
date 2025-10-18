@@ -60,13 +60,13 @@ Cada tutorial contiene:
 
 | 🎮 Tutorial | 📝 Descripción | 🖼️ Vista Previa | 🔗 Enlace |
 |--------------|----------------|------------------|------------|
-| **1 — Movimiento del Jugador** | Implementación del control básico y detección de colisiones. | <img src="Gifs/Tutorial1.gif" width="240"> | [Ver Evidencia](https://docs.google.com/document/d/1XQ5JF0nqKC-NTVHdymEi49wHev40KF1fEdRN8sVhJpE/edit?usp=drive_link) |
-| **2 — Creación del Escenario** | Construcción del entorno del juego y uso de Tilemap. | <img src="screenshots/tutorial2.gif" width="240"> | [Ver Evidencia](https://drive.google.com/...) |
-| **3 — Sistema de Daño y Vida** | Programación de daño, puntos de vida y animaciones. | <img src="screenshots/tutorial3.gif" width="240"> | [Ver Evidencia](https://drive.google.com/...) |
-| **4 — Sonido y Música** | Implementación de efectos, música y control de volumen. | <img src="screenshots/tutorial4.gif" width="240"> | [Ver Evidencia](https://drive.google.com/...) |
-| **5 — Interfaz de Usuario (UI)** | Creación del menú principal, HUD y pantalla de pausa. | <img src="screenshots/tutorial5.gif" width="240"> | [Ver Evidencia](https://drive.google.com/...) |
-| **6 — Enemigos e IA Básica** | Lógica de movimiento, detección y ataque. | <img src="screenshots/tutorial6.gif" width="240"> | [Ver Evidencia](https://drive.google.com/...) |
-| **7 — Pantalla de Fin y Guardado** | Sistema de guardado y pantalla de fin. | <img src="screenshots/tutorial7.gif" width="240"> | [Ver Evidencia](https://drive.google.com/...) |
+| **1. Movimiento del Jugador** | Implementación del control básico y detección de colisiones. | <img src="Gifs/Tutorial1.gif" width="240"> | [Ver Evidencia](https://docs.google.com/document/d/1XQ5JF0nqKC-NTVHdymEi49wHev40KF1fEdRN8sVhJpE/edit?usp=drive_link) |
+| **2. Creación del Escenario** | Construcción del entorno del juego y uso de Tilemap. | <img src="screenshots/tutorial2.gif" width="240"> | [Ver Evidencia](https://drive.google.com/...) |
+| **3. Sistema de Daño y Vida** | Programación de daño, puntos de vida y animaciones. | <img src="screenshots/tutorial3.gif" width="240"> | [Ver Evidencia](https://drive.google.com/...) |
+| **4. Sonido y Música** | Implementación de efectos, música y control de volumen. | <img src="screenshots/tutorial4.gif" width="240"> | [Ver Evidencia](https://drive.google.com/...) |
+| **5. Interfaz de Usuario (UI)** | Creación del menú principal, HUD y pantalla de pausa. | <img src="screenshots/tutorial5.gif" width="240"> | [Ver Evidencia](https://drive.google.com/...) |
+| **6. Enemigos e IA Básica** | Lógica de movimiento, detección y ataque. | <img src="screenshots/tutorial6.gif" width="240"> | [Ver Evidencia](https://drive.google.com/...) |
+| **7. Pantalla de Fin y Guardado** | Sistema de guardado y pantalla de fin. | <img src="screenshots/tutorial7.gif" width="240"> | [Ver Evidencia](https://drive.google.com/...) |
 
 ---
 
@@ -87,6 +87,6 @@ Eres libre de usar, modificar y distribuir el código siempre que se mantenga el
 
 ---
 
-**Autor:** *[Tu Nombre]*  
-📅 *Repositorio actualizado el:* `$(date +%Y-%m-%d)`  
-🌐 *Universidad / Proyecto Académico*
+**Autor:** Jassiel Noe Manuel Martínez  
+📅 *Repositorio actualizado el:* `17/10/2025`  
+🌐 *Universidad Tecnologica del Norte de Guanajuato*
