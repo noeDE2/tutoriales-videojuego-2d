@@ -62,7 +62,7 @@ Cada tutorial contiene:
 |--------------|----------------|------------------|------------|
 | **1. Programación de Videojuegos Player Animations 2D Tutorial 1** | Integración de personajes y animaciones | <img src="Gifs/Tutorial1.gif" width="240"> | [Ver Evidencia](https://docs.google.com/document/d/1XQ5JF0nqKC-NTVHdymEi49wHev40KF1fEdRN8sVhJpE/edit?usp=drive_link) |
 | **2. Programación de Videojuegos Player Animations 2D Tutorial 2** | Implementación del control básico y detección de colisiones. | <img src="Gifs/Tutorial2.gif" width="240"> | [Ver Evidencia](https://docs.google.com/document/d/1u0rpraoy_izodANjbjx19ggblOGhn-RLyGKA_0jH7YQ/edit?usp=sharing) |
-| **3. Sistema de Daño y Vida** | Programación de daño, puntos de vida y animaciones. | <img src="screenshots/tutorial3.gif" width="240"> | [Ver Evidencia](https://drive.google.com/...) |
+| **3. Programación de Videojuegos Construyendo el mundo Tutorial 3** | Implementacion del mundo y el manejo de la camara | <img src="Gifs/Tutorial3.gif" width="240"> | [Ver Evidencia](https://docs.google.com/document/d/1gPD9jDR8i6eHx8oJNaJQAWsyp4zGLZJCAiHe9XOm8KU/edit?usp=sharing) |
 | **4. Sonido y Música** | Implementación de efectos, música y control de volumen. | <img src="screenshots/tutorial4.gif" width="240"> | [Ver Evidencia](https://drive.google.com/...) |
 | **5. Interfaz de Usuario (UI)** | Creación del menú principal, HUD y pantalla de pausa. | <img src="screenshots/tutorial5.gif" width="240"> | [Ver Evidencia](https://drive.google.com/...) |
 | **6. Enemigos e IA Básica** | Lógica de movimiento, detección y ataque. | <img src="screenshots/tutorial6.gif" width="240"> | [Ver Evidencia](https://drive.google.com/...) |
