@@ -66,7 +66,7 @@ Cada tutorial contiene:
 | **4. Programación de Videojuegos Ensamblando las partes Tutorial 4** | Implementación de objetos recogibles y su programación | <img src="Gifs/Tutorial4.gif" width="240"> | [Ver Evidencia](https://docs.google.com/document/d/1ilffIe4gp6fHPZKO642ODr_EehFW2EEFjJGMo9aRmVM/edit?usp=sharing) |
 | **5. Interfaz de Usuario (UI)** | Creación del menú principal, HUD y pantalla de pausa. | <img src="Gifs/Tutorial5.gif" width="240"> | [Ver Evidencia](https://docs.google.com/document/d/1dFbMNFqtioFmRQ0f9XVwgVvKblcKeDk4mUOqSM-xf5M/edit?usp=sharing) |
 | **6. Enemigos e IA Básica** | Lógica de movimiento, detección y ataque. | <img src="Gifs/Tutorial 6.gif" width="240"> | [Ver Evidencia](https://docs.google.com/document/d/1L1Bl0GtedvSQkmFG8mgpukoLA5L58AHtesIjv5ahuIM/edit?usp=sharing) |
-| **7. Pantalla de Fin y Guardado** | Sistema de guardado y pantalla de fin. | <img src="screenshots/tutorial7.gif" width="240"> | [Ver Evidencia](https://drive.google.com/...) |
+| **7. Multiplayer** | Practica de conexion multijugador | <img src="screenshots/tutorial7.gif" width="240"> | [Practica revisada en clase](https://drive.google.com/...) |
 
 ---
 
