@@ -26,17 +26,15 @@
 A continuación se muestran los videos demostrativos del videojuego ejecutándose en distintas plataformas.  
 Solo deberás subir tus archivos a una carpeta como `videos/` dentro del repositorio y reemplazar los nombres.
 
----
 
-## 💻 Despliegue en PC (Windows / Linux)
+## 💻 GamePlay de videojuego Ecomon Renacer Verde (Windows / Linux)
 
 Este video muestra el videojuego ejecutándose en un entorno de escritorio, demostrando su rendimiento, controles y comportamiento general en la versión standalone.
 
 <video src="videos/despliegue-pc.mp4" width="70%" controls></video>
 
-[🔗 Ver video completo](videos/despliegue-pc.mp4)
+[🔗 Ver video completo](https://drive.google.com/file/d/14KkbuesfhpCbBeQTHUFYGobTbqqbwDAE/view?usp=sharing)
 
----
 
 ## 📱 Despliegue en Android
 
@@ -46,7 +44,6 @@ Demostración de la versión móvil del videojuego exportada como APK, probada e
 
 [🔗 Ver video completo](https://drive.google.com/file/d/1TevSTzP_VVROeEdAUlEGjotZDYxGDis2/view?usp=sharing)
 
----
 
 ## 🌐 Despliegue en WebGL
 
