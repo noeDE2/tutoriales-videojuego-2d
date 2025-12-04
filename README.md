@@ -21,6 +21,43 @@
 
 ---
 
+# 🎥 Despliegues del Videojuego
+
+A continuación se muestran los videos demostrativos del videojuego ejecutándose en distintas plataformas.  
+Solo deberás subir tus archivos a una carpeta como `videos/` dentro del repositorio y reemplazar los nombres.
+
+---
+
+## 💻 Despliegue en PC (Windows / Linux)
+
+Este video muestra el videojuego ejecutándose en un entorno de escritorio, demostrando su rendimiento, controles y comportamiento general en la versión standalone.
+
+<video src="videos/despliegue-pc.mp4" width="70%" controls></video>
+
+[🔗 Ver video completo](videos/despliegue-pc.mp4)
+
+---
+
+## 📱 Despliegue en Android
+
+Demostración de la versión móvil del videojuego exportada como APK, probada en un dispositivo Android real incluyendo controles táctiles y rendimiento en hardware móvil.
+
+<video src="videos/despliegue-android.mp4" width="70%" controls></video>
+
+[🔗 Ver video completo](https://drive.google.com/file/d/1TevSTzP_VVROeEdAUlEGjotZDYxGDis2/view?usp=sharing)
+
+---
+
+## 🌐 Despliegue en WebGL
+
+En este apartado se muestra el videojuego funcionando desde el navegador web mediante su exportación en WebGL, verificando compatibilidad y desempeño.
+
+<video src="videos/despliegue-webgl.mp4" width="70%" controls></video>
+
+[🔗 Ver video completo](https://drive.google.com/file/d/1dhoCsSxqz_dH_Rx6094f3ZGyk5er2BOO/view?usp=sharing)
+
+---
+
 ## 🧱 Descripción del Proyecto
 Este proyecto documenta el desarrollo paso a paso de un **videojuego 2D en Unity**, abarcando desde la programación del movimiento del jugador hasta la implementación de interfaz, sonido e inteligencia artificial.
 
